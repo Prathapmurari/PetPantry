@@ -20,7 +20,7 @@ Installation and Setup:
 
 Clone the repository:
 
-git clone https://github.com/sandeep08hegde/Pet-Pantry.git
+git clone https://github.com/Prathapmurari/PetPantry.git
 Use code with caution.
 Install dependencies:
 
